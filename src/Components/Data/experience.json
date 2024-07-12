@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Work as a Full Stack Web Developer",
+    "organisation": "Fiver",
+    "startDate": "Nov, 2023",
+    "endDate": "Present",
+    "location": "Lahore, Pakistan",
+    "experiences": [
+      "Custom-built websites for your business needs",
+      "Web applications with responsive designs"
+    ],
+    "imageSrc": "company/fiver5.png"
+  },
+  {
+    "id": 2,
+    "role": "Work as Frontend Web Developer",
+    "organisation": "Social Swril",
+    "startDate": "aug, 2023",
+    "endDate": "oct, 2023",
+    "location": "Lahore, Pakistan",
+    "experiences": [
+      "Building web-applications using frontend frameworks like React.js",
+      "Configuring and deploying applications to cloud."
+    ],
+    "imageSrc": "company/social2.jpg"
+  },
+  {
+    "id": 3,
+    "role": "Worked as a Desk Collection Officer",
+    "organisation": "SMR",
+    "startDate": "sep, 2022",
+    "endDate": "July, 2023",
+    "location": "Lahore, Pakistan",
+    "experiences": [
+      "Maintaining accurate records of debt collection activities",
+      "Debtor inquiries and concerns professionally and courteously"
+    ],
+    "imageSrc": "company/smr2.png"
+  }
+]
